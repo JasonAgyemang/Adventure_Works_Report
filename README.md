@@ -1,5 +1,4 @@
-# Adventure_Works_Report
-Interactive Power BI dashboard for Adventure Works showcasing executive KPIs, customer insights, product performance, and regional sales.
+
 # 📊 Adventure Works Power BI Dashboard
 
 Welcome to the **Adventure Works Report**, a professional and interactive Power BI dashboard project that simulates real-world business intelligence reporting for a fictional company.
