@@ -24,16 +24,14 @@ This Power BI report provides actionable insights across key business areas incl
 ![Executive Dashboard](exec_dashboard.png)
 
 
-![Product Detail](product_detail.png)
-
-
 ### 👤 Customer Detail View
 ![Customer Detail](customer_detail.png)
 
 ### 🗺️ Regional Map Analysis
 ![Map Dashboard](map_dashboard.png)
+
 ### 📦 Product Performance Detail
-![Product Detail](product_detail.png)
+![Product Detail](product_dashboard.png)
 
 ## 🛠️ Tools Used
 
