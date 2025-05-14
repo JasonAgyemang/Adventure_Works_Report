@@ -21,16 +21,19 @@ This Power BI report provides actionable insights across key business areas incl
 ## 🖼️ Dashboard Snapshots
 
 ### 💼 Executive Dashboard
-![Executive Dashboard](./screenshots/exec_dashboard.png)
+![Executive Dashboard](exec_dashboard.png)
+
+
+![Product Detail](product_detail.png)
+
 
 ### 👤 Customer Detail View
-![Customer Detail](./screenshots/customer_detail.png)
+![Customer Detail](customer_detail.png)
 
 ### 🗺️ Regional Map Analysis
-![Map Dashboard](./screenshots/map_dashboard.png)
-
+![Map Dashboard](map_dashboard.png)
 ### 📦 Product Performance Detail
-![Product Detail](./screenshots/product_detail.png)
+![Product Detail](product_detail.png)
 
 ## 🛠️ Tools Used
 
@@ -42,7 +45,6 @@ This Power BI report provides actionable insights across key business areas incl
 ## 📁 Files Included
 
 - `Adventure Works Report.pbix` – Full Power BI report file  
-- `/screenshots/` – Folder with preview images of key dashboards  
 
 ## 🔎 What You’ll Learn
 
